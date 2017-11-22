@@ -73,10 +73,10 @@ a {
 	width: 0;
 	height: 0;
 	z-index: -1;
-	border-left: 5vw solid transparent;
-	border-right: 5vw solid transparent;
-	border-bottom: 15vh solid whitesmoke;
-	top: 33vh;
+	border-left: 6vw solid transparent;
+	border-right: 6vw solid transparent;
+	border-bottom: 18vh solid whitesmoke;
+	top: 32vh;
 	left: 45vw;
 	position: absolute;
 }
